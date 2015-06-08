@@ -6,7 +6,7 @@ Preview Apple watch designs on your phone!
 ### Getting started
 
 ```
-npm start
+npm i 
 ```
 Run the app with
 
