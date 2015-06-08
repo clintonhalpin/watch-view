@@ -1,7 +1,7 @@
 'use strict';
 
-require('./../bower_components/angular/angular.min.js');
-require('./../bower_components/angular-ui-router/release/angular-ui-router.min.js');
+require('angular');
+require('angular-ui-router');
 
 angular.module('app', [
     'ui.router'
